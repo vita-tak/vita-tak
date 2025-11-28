@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi! 👋
 
-<!--
-**vita-tak/vita-tak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Tech Stack
 
-Here are some ideas to get you started:
+| Category | Technologies |
+|----------|-------------|
+| **Smart Contract** | Solidity (Foundry, Hardhat) |
+| **Backend** | JavaScript/TypeScript (NestJS, Express) |
+| **Frontend** | TypeScript (Next.js, Vite) |
+| **Database** | PostgreSQL, MongoDB |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- [**blip-evm-payment-app**](https://github.com/vita-tak/blip-evm-payment-app) - Decentralized payment app with guardian approvals
