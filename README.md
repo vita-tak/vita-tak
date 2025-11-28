@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hi!
 
 ## My Tech Stack
 
@@ -6,8 +6,10 @@
 |----------|-------------|
 | **Smart Contract** | Solidity (Foundry, Hardhat) |
 | **Backend** | JavaScript/TypeScript (NestJS, Express) |
-| **Frontend** | TypeScript (Next.js, Vite) |
+| **Frontend** | JavaScript/TypeScript (Next.js, Vite) |
 | **Database** | PostgreSQL, MongoDB |
+| **Creative Programming** | SuperCollider, MaxMSP, TouchDesigner, p5.js |
+
 
 ## Current Projects
 
