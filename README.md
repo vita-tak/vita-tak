@@ -31,7 +31,7 @@ I'm currently **available to internship opportunities** where I can contribute a
   </tr>
   <tr>
     <td><strong>Blockchain</strong></td>
-    <td>Ethereum, Viem, Wagmi</td>
+    <td>Ethereum (EVM), Viem, Wagmi</td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
