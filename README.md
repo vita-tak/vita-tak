@@ -59,11 +59,6 @@ I'm currently **available to internship opportunities** where I can contribute a
 
 ## 🌱 Current Projects
 
-### Rental desposit escrow dApp
-> A blockchain-based escrow solution for rental deposits, enabling trustless transactions with automated refund mechanisms and on-chain dispute resolution.
-
-[View Repository](https://github.com/vita-tak/deposit-escrow-dapp)
-
 ### Blip Payment
 > A decentralized payment application built on Ethereum, enabling secure peer-to-peer stablecoin transactions. Made during my internship at 4+Ventures.
 
