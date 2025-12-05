@@ -66,7 +66,7 @@ I'm currently **available to internship opportunities** where I can contribute a
 [View Repository](https://github.com/vita-tak/evm-deposit-escrow.git)
 
 ### Blip Payment
-> A decentralized payment application built on Ethereum, enabling secure peer-to-peer stablecoin transactions. Made during my internship at 4+Ventures.
+> A decentralized payment application built on Ethereum, enabling secure peer-to-peer stablecoin transactions.
 
 [View Repository](https://github.com/vita-tak/blip-evm-payment-app)
 
