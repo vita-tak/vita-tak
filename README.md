@@ -31,7 +31,7 @@ I'm currently **available to internship opportunities** where I can contribute a
   </tr>
   <tr>
     <td><strong>Blockchain</strong></td>
-    <td>Ethereum (EVM), Viem, Wagmi</td>
+    <td>EVM, Viem, Wagmi</td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
@@ -58,6 +58,12 @@ I'm currently **available to internship opportunities** where I can contribute a
 ---
 
 ## 🌱 Current Projects
+
+### EVM Deposit Escrow System
+> A modular, blockchain-based escrow system for secure deposit management. Built with the flexibility to support various deposit scenarios.
+> *Backend example implementation: Rental deposits (landlord ↔ tenant)*
+
+[View Repository](https://github.com/vita-tak/evm-deposit-escrow.git)
 
 ### Blip Payment
 > A decentralized payment application built on Ethereum, enabling secure peer-to-peer stablecoin transactions. Made during my internship at 4+Ventures.
