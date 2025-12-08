@@ -60,7 +60,7 @@ I'm currently **available to internship opportunities** ✨
 ## 🌱 Current Projects
 
 ### EVM Deposit Escrow System
-> A modular, blockchain-based escrow system for secure deposit management. Built with the flexibility to support various deposit scenarios.
+> A modular, blockchain-based escrow system for secure stablecoin deposit management. Built with the flexibility to support various deposit scenarios.
 > *Backend example implementation: Rental deposits (landlord ↔ tenant)*
 
 [View Repository](https://github.com/vita-tak/evm-deposit-escrow.git)
