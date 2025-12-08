@@ -2,7 +2,7 @@
 
 I'm a full-stack web and blockchain developer with a background in music, composition, and sound art. My journey into tech began through a fascination with how experience and technology can interact. This fascination led me to do a two-year, government-funded higher vocational education in full-stack development geared towards Web3/blockchain.
 
-I'm currently **available to internship opportunities** where I can contribute and continue to grow as a developer.
+I'm currently **available to internship opportunities** ✨
 
 ---
 ## Tech Stack
@@ -72,4 +72,4 @@ I'm currently **available to internship opportunities** where I can contribute a
 
 ---
 
-*Interested in collaboration or have an internship opportunity? Feel free to reach out!* ✨
+*Interested in collaboration or have an internship opportunity? Feel free to reach out!* 
