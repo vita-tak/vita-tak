@@ -60,7 +60,7 @@ I'm currently **available to internship opportunities** ✨
 ## 🌱 Current Projects
 
 ### EVM Deposit Escrow System
-> Modular blockchain escrow dApp for stablecoin deposits with Chainlink Automation for trustless auto-releases. Flexible design supports multiple use cases.
+> A modular blockchain escrow application for stablecoin deposits. With Chainlink Automation for trustless auto-releases. Flexible design supports multiple use cases.
 > *Example implementation: Rental deposits (landlord ↔ tenant)*
 
 [View Repository](https://github.com/vita-tak/evm-deposit-escrow.git)
