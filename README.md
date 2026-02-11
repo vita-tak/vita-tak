@@ -70,4 +70,4 @@ I'm a full-stack web and blockchain developer with a background in music composi
 
 ---
 
-*Interested in collaboration or have an internship opportunity? Feel free to reach out!* 
+*Interested in collaboration? Feel free to reach out!* 
