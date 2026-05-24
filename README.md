@@ -1,6 +1,11 @@
 # Hey! 👋
 
-I'm a full-stack web and blockchain developer with a background in music composition and sound art. My journey into tech began through a fascination with how experience and technology can interact. This fascination led me to do a two-year, government-funded higher vocational education in full-stack development geared towards Web3/blockchain.
+Full-stack and blockchain developer.
+
+I got into tech through a fascination for where 
+technology and human experience meet. These days I 
+build blockchain infrastructure, smart contracts and 
+backends. And occasionally things that involve sound.
 
 ---
 ## Tech Stack
@@ -13,7 +18,7 @@ I'm a full-stack web and blockchain developer with a background in music composi
   </tr>
   <tr>
     <td><strong>Smart Contract</strong></td>
-    <td>Solidity (Foundry, Hardhat)</td>
+    <td>Solidity (Foundry)</td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
@@ -56,6 +61,15 @@ I'm a full-stack web and blockchain developer with a background in music composi
 ---
 
 ## 🌱 Current Projects
+
+### AI-Logger — Integritas
+> A compliance logging system for AI decisions with 
+> cryptographic proofs and blockchain stamping.
+> Conceived, built and pitched independently during 
+> my internship at Minima. Released as a commercial 
+> product by Integritas.
+
+[https://ailogger.integritas.technology](https://ailogger.integritas.technology/)
 
 ### Blip Rental Deposits
 > A modular blockchain escrow application for stablecoin deposits. With Chainlink Automation for trustless auto-releases. Flexible design supports multiple use cases.
