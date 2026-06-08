@@ -34,11 +34,11 @@ backends. And occasionally things that involve sound.
   </tr>
   <tr>
     <td><strong>Blockchain</strong></td>
-    <td>EVM, Viem, Wagmi</td>
+    <td>EVM, Viem, Wagmi, Chainlink, zkSync</td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
-    <td>Git, Docker</td>
+    <td>Docker, Git, Vitest</td>
   </tr>
   <tr>
     <td><strong>Audio Visual / Art</strong></td>
