@@ -62,14 +62,16 @@ backends. And occasionally things that involve sound.
 
 ## 🌱 Current Projects
 
-### AI-Logger — Integritas
+### AI-Logger
 > A compliance logging system for AI decisions with 
 > cryptographic proofs and blockchain stamping.
-> Conceived, built and pitched independently during 
-> my internship at Minima. Released as a commercial 
+> Conceived, pitched and built backend and SDK during 
+> my internship at Minima. Released as a 
 > product by Integritas.
 
 [https://ailogger.integritas.technology](https://ailogger.integritas.technology/)
+
+[View Repository](https://github.com/vita-tak/ai-logger)
 
 ### Blip Rental Deposits
 > A modular blockchain escrow application for stablecoin deposits. With Chainlink Automation for trustless auto-releases. Flexible design supports multiple use cases.
