@@ -67,11 +67,15 @@ backends. And occasionally things that involve sound.
 > cryptographic proofs and blockchain stamping.
 > Conceived, pitched and built backend and SDK during 
 > my internship at Minima. Released as a 
-> product by Integritas.
-
-[https://ailogger.integritas.technology](https://ailogger.integritas.technology/)
+> product by Integritas. [https://ailogger.integritas.technology](https://ailogger.integritas.technology/)
 
 [View Repository](https://github.com/vita-tak/ai-logger)
+
+### EU AI Act RAG + Compliance Agent
+> A retrieval-augmented generation (RAG) system for querying the EU AI Act in natural language
+> Extended with an agentic compliance classifier that determines the risk category of an AI product under the EU AI Act.
+
+[View Repository](https://github.com/vita-tak/eu-ai-act-rag)
 
 ### Blip Rental Deposits
 > A modular blockchain escrow application for stablecoin deposits. With Chainlink Automation for trustless auto-releases. Flexible design supports multiple use cases.
