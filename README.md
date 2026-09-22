@@ -69,7 +69,7 @@ backends. And occasionally things that involve sound.
 
 [View Repository](https://github.com/vita-tak/ai-logger)
 
-### EU AI Act RAG + Compliance Agent
+### EU AI Act Compliace Assistant (Agentic RAG system)
 > A retrieval-augmented generation (RAG) system for querying the EU AI Act in natural language
 > Extended with an agentic compliance classifier that determines the risk category of an AI product under the EU AI Act.
 
