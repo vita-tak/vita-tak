@@ -60,11 +60,6 @@ backends. And occasionally things that involve sound.
 
 ## 🌱 Current Projects
 
-### EU AI Act Compliace Assistant (Agentic RAG system)
-> An agentic RAG system designed to query the EU AI Act in natural language and determine the risk category of an AI system under the regulation. [https://assistant.sarek.technology](https://assistant.sarek.technology/)
-
-[View Repository](https://github.com/vita-tak/eu-ai-act-rag)
-
 ### AI-Logger
 > A compliance logging system for AI decisions with 
 > cryptographic proofs and blockchain stamping.
@@ -73,6 +68,11 @@ backends. And occasionally things that involve sound.
 > product by Integritas. [https://ailogger.integritas.technology](https://ailogger.integritas.technology/)
 
 [View Repository](https://github.com/vita-tak/ai-logger)
+
+### EU AI Act Compliace Assistant (Agentic RAG system)
+> An agentic RAG system designed to query the EU AI Act in natural language and determine the risk category of an AI system under the regulation. [https://assistant.sarek.technology](https://assistant.sarek.technology/)
+
+[View Repository](https://github.com/vita-tak/eu-ai-act-rag)
 
 ### Blip Rental Deposits
 > A modular blockchain escrow application for stablecoin deposits. With Chainlink Automation for trustless auto-releases. Flexible design supports multiple use cases.
