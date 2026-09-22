@@ -1,10 +1,8 @@
 # Hey! 👋
 
-Full-stack and blockchain developer.
-
 I got into tech through a fascination for where 
 technology and human experience meet. These days I 
-build blockchain infrastructure, smart contracts and 
+build ai tools, blockchain infrastructure, smart contracts and 
 backends. And occasionally things that involve sound.
 
 ---
