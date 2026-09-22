@@ -15,10 +15,6 @@ backends. And occasionally things that involve sound.
     <th>Technologies</th>
   </tr>
   <tr>
-    <td><strong>Smart Contract</strong></td>
-    <td>Solidity (Foundry)</td>
-  </tr>
-  <tr>
     <td><strong>Backend</strong></td>
     <td>TypeScript (NestJS, Express), Node.js</td>
   </tr>
@@ -29,6 +25,10 @@ backends. And occasionally things that involve sound.
   <tr>
     <td><strong>Database</strong></td>
     <td>PostgreSQL, Prisma, MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Smart Contracts</strong></td>
+    <td>Solidity (Foundry)</td>
   </tr>
   <tr>
     <td><strong>Blockchain</strong></td>
