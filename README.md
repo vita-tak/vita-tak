@@ -71,7 +71,7 @@ backends. And occasionally things that involve sound.
 
 ### EU AI Act Compliace Assistant (Agentic RAG system)
 > A retrieval-augmented generation (RAG) system for querying the EU AI Act in natural language
-> Extended with an agentic compliance classifier that determines the risk category of an AI product under the EU AI Act.
+> Extended with an agentic compliance classifier that determines the risk category of an AI product under the EU AI Act. [https://assistant.sarek.technology/](https://assistant.sarek.technology/)
 
 [View Repository](https://github.com/vita-tak/eu-ai-act-rag)
 
